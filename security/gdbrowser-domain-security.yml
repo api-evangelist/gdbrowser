@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: gdbrowser.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  3 03:29:37 2026 GMT
+  hsts: false
+domains:
+- domain: gdbrowser.com
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false

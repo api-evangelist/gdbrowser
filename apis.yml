@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://gdbrowser.com/api
 common:
+  - type: DomainSecurity
+    url: security/gdbrowser-domain-security.yml
   - type: Website
     url: https://gdbrowser.com/api
   - type: PublicAPIsListing
