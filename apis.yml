@@ -40,7 +40,8 @@ apis:
   - name: GDBrowser
     description: "Easy way to use the Geometry Dash Servers"
     humanURL: https://gdbrowser.com/api
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
